@@ -75,7 +75,8 @@ export default function GithubRepoCard() {
             ))}
           </div>
           <Button
-            text="More Projects"
+            text="
+            Mais Projetos"
             className="project-button"
             href="https://github.com/LucasRafaelBalduino?tab=repositories"
             newTab
